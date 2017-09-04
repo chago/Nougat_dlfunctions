@@ -1,3 +1,4 @@
+Android N 系统So加载方案
 A hack for loading system libraries in Android Nougat where dlopen() has been disabled by some wise guys.<br>
 A sample app (written entirely in C) using the famous Freetype2 library to render character strings is included
 as well as a trivial example explaining how to deal with Android C++ classes.<br>
